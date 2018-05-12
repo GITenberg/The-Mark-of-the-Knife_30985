@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '34947'
     url: http://www.gutenberg.org/2009/agents/34947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30985#The-Mark-of-the-Knife
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
